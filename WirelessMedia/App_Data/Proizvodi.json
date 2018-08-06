@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "ProizvodId": 1,
     "Kategorija": "Procesori",
@@ -97,5 +97,14 @@
     "Naziv": "ASUS GeForce GTX 1050 Ti Cerberus",
     "Opis": "OC 4GB GDDR5 128bit - CERBERUS-GTX1050TI-O4G, PCI Express 3.0",
     "Cena": 23348.95
+  },
+  {
+    "ProizvodId": 17626518,
+    "Kategorija": "fsaf",
+    "Proizvodjac": "fassfas",
+    "Dobavljac": "fsafas",
+    "Naziv": "fasfsaf",
+    "Opis": "fsafas",
+    "Cena": 1111.0
   }
 ]
